@@ -7,7 +7,7 @@
         </template>
         <el-menu-item-group>
           <el-menu-item index="/dashboard/overview">Overview</el-menu-item>
-          <el-menu-item index="/dashboard/reports">Report</el-menu-item>
+          <el-menu-item index="/dashboard/reports">Reports</el-menu-item>
         </el-menu-item-group>
       </el-submenu>
     </el-menu>
